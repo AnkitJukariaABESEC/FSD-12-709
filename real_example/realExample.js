@@ -50,8 +50,6 @@ orderSystem.placeOrder({
   items: [
     { name: "Wireless Mouse", qty: 1 },
     { name: "Mechanical Keyboard", qty: 1 },
-    { name: "wireless earphone", qty: 2 },
-    { name: "iPhone", qty: 1 },
   ],
-  total: 100u499,
+  total: 2499,
 });
